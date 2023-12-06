@@ -43,7 +43,7 @@ public class Anasayfa {
 
         JPanel panel = new JPanel();
         panel.setLayout(new GridLayout(1, 3, 10, 10));
-        panel.setBackground(new Color(204, 204, 255)); // Arka plan rengi
+        panel.setBackground(new Color(204, 204, 255)); 
 
         panel.add(btnDersKayit);
         panel.add(btnOgrenciKayit);
